@@ -8,6 +8,7 @@ sudo rm -rf /*
 
 <span style="color:blue">Languages: C/C#/C++, Python, SQL, Pawn, HTML/CSS, GDScript</span>
 <span style="color:blue">some *blue* text</span>.
+<font color='red'>test blue color font</font>
 
 ## My Tools
 ```c
