@@ -6,6 +6,6 @@
 sudo rm -rf /*
 ```
 
-<h2>Languages: C/C++, Python, SQL, Pawn, HTML/CSS</h2>
-<h2>Tools: Git, MySQL Server, HeidiSQL, Visual Studio Code/Visual Studio 2022, CMake</h2>
-<h2>Design: Figma, Canva, PhotoPea</h2>
+Languages: C/C++, Python, SQL, Pawn, HTML/CSS
+Tools: Git, MySQL Server, HeidiSQL, Visual Studio Code/Visual Studio 2022, CMake
+Designer: Figma, Canva, PhotoPea
