@@ -12,5 +12,5 @@ ${\color{red}Languages:}$
 ${\color{blue}Tools:}$
 <span> Git, MySQL Server, HeidiSQL, Vscode/Vs2022, CMake, Godot</span><br>
 ${\color{green}Designer:}$
-<span> Figma, Canva, PhotoPea</span><br>
+<span> Figma, Canva, Photopea</span><br>
 
