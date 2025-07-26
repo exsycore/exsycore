@@ -7,6 +7,7 @@ sudo rm -rf /*
 ```
 
 <span style="color:blue">Languages: C/C#/C++, Python, SQL, Pawn, HTML/CSS, GDScript</span>
+<span style="color:blue">some *blue* text</span>.
 
 ## My Tools
 ```c
