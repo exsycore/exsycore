@@ -9,6 +9,6 @@ sudo rm -rf /*
 ## My Tools
 ```bash
 Languages: C/C++, Python, SQL, Pawn, HTML/CSS
-Tools: Git, MySQL Server, HeidiSQL, Visual Studio Code/Visual Studio 2022, CMake
+Tools: Git, MySQL Server, HeidiSQL, Vscode/Vs2022, CMake
 Designer: Figma, Canva, PhotoPea
 ```
