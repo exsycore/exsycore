@@ -7,7 +7,7 @@ sudo rm -rf /*
 ```
 
 ## My Tools
-```asm
+```c
 Languages: C/C#/C++, Python, SQL, Pawn, HTML/CSS, GDScript
 Tools: Git, MySQL Server, HeidiSQL, Vscode/Vs2022, CMake, Godot
 Designer: Figma, Canva, PhotoPea
