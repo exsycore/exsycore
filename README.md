@@ -9,7 +9,7 @@ sudo rm -rf /*
 ## My Tools
 > [!NOTE]
 > ${\color{red}Languages:}$
-<span> C/C#/C++, Python, SQL, Pawn, HTML/CSS, GDScript</span><br>
+<span> C/C#/C++, Python, SQL, Pawn, HTML/CSS, Javascript, GDScript</span><br>
 ${\color{blue}Tools:}$
 <span> Git, MySQL Server, HeidiSQL, Vscode/Vs2022, CMake, Godot</span><br>
 ${\color{green}Designer:}$
