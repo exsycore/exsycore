@@ -6,7 +6,6 @@
 sudo rm -rf /*
 ```
 
-## My Tools
 > [!NOTE]
 > ${\color{red}Languages:}$
 <span> C/C#/C++, Python, SQL, Pawn, HTML/CSS, Javascript, GDScript</span><br>
