@@ -10,7 +10,7 @@ sudo rm -rf /*
 > ${\color{red}Languages:}$
 <span> C/C#/C++, Python, SQL, Pawn, HTML/CSS, Javascript, GDScript</span><br>
 ${\color{blue}Tools:}$
-<span> Git, MySQL Server, HeidiSQL, Vscode/Vs2022, CMake, Godot, NodeJS</span><br>
+<span> Git, MySQL Server, HeidiSQL, Vscode/Vs2022, CMake, Godot, NodeJS, XAMPP</span><br>
 ${\color{green}Designer:}$
 <span> Figma, Canva, Photopea</span><br>
 
