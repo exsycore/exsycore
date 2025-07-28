@@ -14,3 +14,17 @@ ${\color{blue}Tools:}$
 ${\color{green}Designer:}$
 <span> Figma, Canva, Photopea</span><br>
 
+<table>
+  <tr>
+    <td><strong style="color:red;">Languages:</strong></td>
+    <td>C/C#/C++, Python, SQL, Pawn, HTML/CSS, Javascript, GDScript</td>
+  </tr>
+  <tr>
+    <td><strong style="color:blue;">Tools:</strong></td>
+    <td>Git, MySQL Server, HeidiSQL, VSCode/VS2022, CMake, Godot, NodeJS, XAMPP</td>
+  </tr>
+  <tr>
+    <td><strong style="color:green;">Designer:</strong></td>
+    <td>Figma, Canva, Photopea</td>
+  </tr>
+</table>
