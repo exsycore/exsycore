@@ -6,7 +6,7 @@
 sudo rm -rf /*
 ```
 
-> [!NOTE]
+>
 <table>
   <tr>
     <td><strong style="color:red;">Languages:</strong></td>
