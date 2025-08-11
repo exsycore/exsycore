@@ -5,7 +5,7 @@
 ```bash
 sudo rm -rf /
 ```
-<p>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-e22f1e?style=for-the-badge&logoColor=white"></a>
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="https://cmake.org/" target="_blank"><img src="https://img.shields.io/badge/CMake-e22f1e?style=for-the-badge&logoColor=white"></a>
 </p>
