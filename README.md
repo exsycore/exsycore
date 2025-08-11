@@ -30,7 +30,7 @@ sudo rm -rf /*
 </p>
 # Designs
 <p>
-  <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-007ACC?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-8800e7?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
 <table>
