@@ -10,7 +10,6 @@ sudo rm -rf /*
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
->
 <table>
   <tr>
     <td><strong style="color:red;">Languages:</strong></td>
