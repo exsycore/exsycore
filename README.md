@@ -10,8 +10,9 @@ sudo rm -rf /*
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3e809c?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://www.pawn.org/"><img src="https://img.shields.io/badge/Pawn-af932c?style=for-the-badge&logo=pawn&logoColor=white"></a>
-  <a href="https://www.pawn.org/"><img src="https://img.shields.io/badge/Javascript-ffde32?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://www.compuphase.com/pawn/pawn.htm"><img src="https://img.shields.io/badge/Pawn-af932c?style=for-the-badge&logo=pawn&logoColor=white"></a>
+  <a href="https://www.w3schools.com/Js/"><img src="https://img.shields.io/badge/Javascript-ffde32?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html"><img src="https://img.shields.io/badge/GDScript-ffde32?style=for-the-badge&logo=gdscript&logoColor=black"></a>
 </p>
 
 <p>
