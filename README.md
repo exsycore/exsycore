@@ -7,7 +7,7 @@ sudo rm -rf /*
 ```
 
 <p>
-  <a href="asd.com"><img src="https://img.shields.io/visual-studio-marketplace/i/:extensionId"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 >
