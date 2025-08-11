@@ -10,6 +10,7 @@ sudo rm -rf /*
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3e809c?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Pawn-af932c?style=for-the-badge&logo=pawn&logoColor=white"></a>
 </p>
 
 <p>
