@@ -6,6 +6,10 @@
 sudo rm -rf /*
 ```
 
+<p>
+  <a href="asd.com"><img src="https://img.shields.io/visual-studio-marketplace/i/:extensionId"></a>
+</p>
+
 >
 <table>
   <tr>
