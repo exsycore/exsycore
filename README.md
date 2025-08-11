@@ -15,6 +15,7 @@ sudo rm -rf /*
   <a href="https://www.compuphase.com/pawn/pawn.htm"><img src="https://img.shields.io/badge/Pawn-af932c?style=for-the-badge&logo=pawn&logoColor=white"></a>
   <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html"><img src="https://img.shields.io/badge/GDScript-1c5b89?style=for-the-badge&logo=gdscript&logoColor=white"></a>
 </p>
+
 # Tools
 <p>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -28,22 +29,9 @@ sudo rm -rf /*
   <a href="https://www.heidisql.com/download.php"><img src="https://img.shields.io/badge/HeidiSQL-5ad976?style=for-the-badge&logoColor=white"></a>
   <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-e22f1e?style=for-the-badge&logoColor=white"></a>
 </p>
+
 # Designs
 <p>
   <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-8800e7?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://www.canva.com"><img src="https://img.shields.io/badge/Canva-48cbcf?style=for-the-badge&logo=canva&logoColor=white"></a>
 </p>
-
-<table>
-  <tr>
-    <td><strong style="color:red;">Languages:</strong></td>
-    <td>C/C#/C++, Python, SQL, Pawn, HTML/CSS, Javascript, GDScript</td>
-  </tr>
-  <tr>
-    <td><strong style="color:blue;">Tools:</strong></td>
-    <td>Git, MySQL Server, HeidiSQL, VSCode/VS2022, CMake, Godot, NodeJS, XAMPP</td>
-  </tr>
-  <tr>
-    <td><strong style="color:green;">Designer:</strong></td>
-    <td>Figma, Canva, Photopea</td>
-  </tr>
-</table>
