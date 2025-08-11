@@ -5,7 +5,6 @@
 ```bash
 sudo rm -rf /*
 ```
-**Languages**
 <p>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -15,8 +14,6 @@ sudo rm -rf /*
   <a href="https://www.compuphase.com/pawn/pawn.htm"><img src="https://img.shields.io/badge/Pawn-af932c?style=for-the-badge&logo=pawn&logoColor=white"></a>
   <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html"><img src="https://img.shields.io/badge/GDScript-1c5b89?style=for-the-badge&logo=gdscript&logoColor=white"></a>
 </p>
-
-**Tools**
 <p>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
@@ -29,8 +26,6 @@ sudo rm -rf /*
   <a href="https://www.heidisql.com/download.php"><img src="https://img.shields.io/badge/HeidiSQL-5ad976?style=for-the-badge&logoColor=white"></a>
   <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-e22f1e?style=for-the-badge&logoColor=white"></a>
 </p>
-
-**Designs**
 <p>
   <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-8800e7?style=for-the-badge&logo=figma&logoColor=white"></a>
   <a href="https://www.canva.com"><img src="https://img.shields.io/badge/Canva-48cbcf?style=for-the-badge&logo=canva&logoColor=white"></a>
