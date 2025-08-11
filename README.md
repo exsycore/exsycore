@@ -11,7 +11,7 @@ sudo rm -rf /*
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3e809c?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://www.pawn.org/"><img src="https://img.shields.io/badge/Pawn-af932c?style=for-the-badge&logo=pawn&logoColor=white"></a>
-  <a href="https://www.pawn.org/"><img src="https://img.shields.io/badge/Javascript-ffde32?style=for-the-badge&logo=javascript&logoColor=white"></a>
+  <a href="https://www.pawn.org/"><img src="https://img.shields.io/badge/Javascript-ffde32?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 
 <p>
