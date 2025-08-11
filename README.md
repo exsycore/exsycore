@@ -24,6 +24,7 @@ sudo rm -rf /*
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   <a href="https://www.w3schools.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"></a>
   <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-283346?style=for-the-badge&logoColor=white"></a>
+  <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/HeidiSQL-283346?style=for-the-badge&logoColor=white"></a>
 </p>
 
 <table>
