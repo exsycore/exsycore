@@ -11,3 +11,7 @@
   <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-8800e7?style=for-the-badge&logo=figma&logoColor=white"></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
+
+<div align="center">
+"Talk is cheap. Show me the code."
+</div>
